@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://carsencwnesselrodt23.github.io/carsencwnesselrodt23_github_io_zp528_12.txt
+Sitemap: https://carsencwnesselrodt23.github.io/carsencwnesselrodt23_github_io_zp528_18.txt
+Sitemap: https://carsencwnesselrodt23.github.io/carsencwnesselrodt23_github_io_zp528_23.txt
+Sitemap: https://carsencwnesselrodt23.github.io/carsencwnesselrodt23_github_io_zp528_3.txt
+Sitemap: https://carsencwnesselrodt23.github.io/carsencwnesselrodt23_github_io_zp528_9.txt
